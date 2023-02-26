@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\AbstractPokemon.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\AbstractPokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\AbstractPokemon.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\AbstractPokemon.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\AbstractPokemon.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\bin\Debug\net6.0\AbstractPokemon.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\bin\Debug\net6.0\AbstractPokemon.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\bin\Debug\net6.0\AbstractPokemon.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\bin\Debug\net6.0\AbstractPokemon.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\bin\Debug\net6.0\AbstractPokemon.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\AbstractPokemon.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\refint\AbstractPokemon.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\AbstractPokemon.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\AbstractPokemon.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week5\AbstractPokemon\AbstractPokemon\obj\Debug\net6.0\ref\AbstractPokemon.dll
